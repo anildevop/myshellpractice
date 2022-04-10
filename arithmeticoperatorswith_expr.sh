@@ -9,7 +9,7 @@ sub=$( expr $num1 - $num2 )
 mul=$( expr $num1 \* $num2 )
 div=$( expr $num1 / $num2 )
 mod=$( expr $num1 % $num2 )
-equal=$[$num1 == $num2]
+equal=$[$num1==$num2]
 notequal=$[$num1 != $num2]
 
  
