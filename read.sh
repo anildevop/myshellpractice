@@ -1,5 +1,8 @@
 #!/bin/bash
 
-echo "What is your name?"
-read PERSON
+echo "What is your?"
+read PERSON 
 echo "Hello, $PERSON"
+echo "Hello, $PERSON"
+echo "heloo world'
+
